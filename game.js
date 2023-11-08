@@ -1,8 +1,7 @@
 const containerEl = document.querySelector(".container");
 const btnHeader = document.querySelector(".header-btn");
 const btnInput = document.querySelector(".input-btn");
-
-
+const mEssage = document.querySelector(".message");
 const inputNUm = document.querySelector(".input-num");
 const sCore = document.querySelector(".score");
 
